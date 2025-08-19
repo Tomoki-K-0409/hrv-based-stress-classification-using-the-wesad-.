@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Kaggle 認証ファイル（絶対に公開しない）
+kaggle.json
+
+# Kaggle からダウンロードしたデータファイル
+*.zip
+*.pkl
