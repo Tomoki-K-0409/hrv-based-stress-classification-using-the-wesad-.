@@ -41,3 +41,7 @@ scikit-learn
 ## ライセンス
 MIT License
 
+## 参考・出典
+- Kaggle ノートブック “HRV-Based Stress Classification Using the WESAD” を参考に、Colab 用の再現可能なベースラインを構築しました。:contentReference[oaicite:4]{index=4}  
+- データセット：Schmidt et al., 2018「WESAD: A Multimodal Dataset for Wearable Stress and Affect Detection」（WESAD データセットの論文）  
+- WESAD データセット（Kaggle）：https://www.kaggle.com/datasets/… :contentReference[oaicite:5]{index=5}
